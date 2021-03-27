@@ -1,0 +1,13 @@
+.regCon .form-control:not(select) {
+    padding: 1.5rem 0.5rem;
+}
+
+.regCon select.form-control {
+    height: 52px;
+    padding-left: 0.5rem;
+}
+
+.regCon .form-control:focus {
+    box-shadow: none;
+}
+
